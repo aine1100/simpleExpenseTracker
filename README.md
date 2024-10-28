@@ -41,7 +41,7 @@ To run this project locally, you’ll need [Node.js](https://nodejs.org/) and [n
 
    ```bash
    git clone https://github.com/aine1100/expense-tracker.git
-   cd expense-tracker
+   cd vite-project
    ```
 
 2. **Install dependencies**
@@ -103,4 +103,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-T
+Thank you made with  ❤️ by aine
