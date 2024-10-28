@@ -3,7 +3,7 @@
 
 A responsive, intuitive expense tracker built with React, Vite, and Chart.js to help manage personal finances. This project allows users to add, categorize, and view expenses visually via a pie chart, with options for filtering and data persistence.
 
-![ExpenseTrackerPreview](https://simple-expense-tracker-dun.vercel.app/)
+- [ExpenseTrackerPreview](https://simple-expense-tracker-dun.vercel.app/)
 
 ## Table of Contents
 
